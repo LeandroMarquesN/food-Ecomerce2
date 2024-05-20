@@ -1,5 +1,8 @@
+
+import Head from "../../../components/Head"
+
 export default function Sobremesas() {
     return (
-        <h1>Sobremesas</h1>
+        < Head title="Sobremesas" description="Sobremesas mais delciosas"/>   
     )
 }

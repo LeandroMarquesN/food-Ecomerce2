@@ -1,5 +1,8 @@
+import Head from "../../../components/Head"
+
+
 export default function Pizzas() {
     return (
-        <h1>Pizzas</h1>
+        < Head title="Pizzas" description="Os mais variados sabores de Pizzas"/>
     )
 }
