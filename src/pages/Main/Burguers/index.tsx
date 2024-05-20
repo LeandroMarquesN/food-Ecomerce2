@@ -4,7 +4,7 @@ import { Snacks } from "../../../components/Snacks"
 
 
 export default function Burguers() {
-
+// comentario
     const  data= [
         {
             id:1,
