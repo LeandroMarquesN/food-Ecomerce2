@@ -5,8 +5,8 @@ export default function Burguers() {
     return (
         <>
             < Head title="Hamburgueres" description="Os melhores Hamburgueres das galaxias!"/>
-            
-            <SnackTitles>Hamburgueres</SnackTitles>
+
+            <SnackTitles>Burgueres</SnackTitles>
         </>
     )
 }
