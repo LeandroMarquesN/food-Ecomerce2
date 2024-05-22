@@ -15,24 +15,7 @@ export default function Burguers() {
             price:25.5,
             image:"https://cdn.pixabay.com/photo/2024/05/10/10/51/ai-generated-8752901_1280.jpg"
         },
-        {
-            id:2,
-            snack:"burguer",
-            name:"Extra bacon",
-            description:
-            'Criado para os amantes de bacon, possui em todas as suas comadas bacon bem assadoe ainda queijo e carne',
-            price:23.5,
-            image:"https://imgur.com/B4J04AJ.jpg"
-        },
-        {
-            id:3,
-            snack:"burguer",
-            name:"Ultra Burguer",
-            description:
-            'O Ultra Burguer tem um tamanho super família recheado com cinco suculentos, queijos e bacon.',
-            price:35.5,
-            image:"https://cdn.pixabay.com/photo/2024/05/10/10/51/ai-generated-8752901_1280.jpg"
-        }
+     
     ]
 
     return (
